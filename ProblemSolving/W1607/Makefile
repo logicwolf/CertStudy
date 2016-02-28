@@ -1,10 +1,12 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		M1607.o
+MAIN_NAME = MH1607
+
+OBJS =		$(MAIN_NAME).o
 
 LIBS =
 
-TARGET =	M1607
+TARGET =	$(MAIN_NAME)
 
 $(TARGET):	$(OBJS)
 	$(CXX) -o $(TARGET) $(OBJS) $(LIBS)
