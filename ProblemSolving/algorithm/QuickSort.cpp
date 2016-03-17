@@ -14,13 +14,12 @@ using namespace std;
 //#define _INT_SORT_
 #define _STRUCTURE_SORT_
 
-
 #if defined(_INT_SORT_)
 void print_arr(int arr[], int nSize)
 {
 	for(int i=0;i<nSize;i++)
 	{
-		cout << arr[i] << " ";
+		std::cout << arr[i] << " ";
 	}
 	cout << endl;
 }

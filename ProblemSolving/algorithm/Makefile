@@ -1,10 +1,10 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		QuickSort.o
+OBJS =		AdvL1_3-1.o
 
 LIBS =
 
-TARGET =	QuickSort
+TARGET =	AdvL1_3-1
 
 $(TARGET):	$(OBJS)
 	$(CXX) -o $(TARGET) $(OBJS) $(LIBS)
