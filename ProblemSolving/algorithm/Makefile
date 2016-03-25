@@ -1,10 +1,10 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		AdvL1_3-1.o
+OBJS =		DFS.o
 
 LIBS =
 
-TARGET =	AdvL1_3-1
+TARGET =	DFS
 
 $(TARGET):	$(OBJS)
 	$(CXX) -o $(TARGET) $(OBJS) $(LIBS)
