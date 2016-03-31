@@ -6,15 +6,6 @@ using namespace std;
 
 #define MAX_LEN 50
 
-void PrintMem(int arr[], int nCount)
-{
-    for(int i=0;i<nCount;i++)
-    {
-        cout << arr[i] << " ";
-    }
-    cout << endl;
-}
-
 int main(void)
 {
     freopen("sample_input.txt", "r", stdin);
@@ -22,11 +13,12 @@ int main(void)
     
     cin >> T;
         
-    for(int tc=1;tc<=1;tc++)
+    for(int tc=1;tc<=T;tc++)
     {
         char Mem[MAX_LEN] = {0,};
         char ch = 100;
         int nCount = 0;
+		  int nCurBit = 0;
         
         scanf("%s", Mem);
         //cout << Mem << endl;
@@ -37,11 +29,16 @@ int main(void)
             {
                 break;
             }
-            cout << Mem[i] << " ";
+            //cout << Mem[i] << " ";
+			   if(nCurBit == (Mem[i] - '0')) continue;
+			
+		      (nCurBit == 0) ? nCurBit = 1 : nCurBit = 0;
+			   nCount++;
         }
-        
-        //PrintMem(Mem, nCount);
-        //cout <<"nCount : " <<  nCount << endl;
+
+        //cout << endl;
+
+		  cout << nCount << endl;
     }
     
     return 0;
