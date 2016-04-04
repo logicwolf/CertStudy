@@ -1,10 +1,10 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		epoll_test.o
+OBJS =		DFS.o
 
 LIBS =
 
-TARGET =	epoll_test
+TARGET =	DFS
 
 $(TARGET):	$(OBJS)
 	$(CXX) -o $(TARGET) $(OBJS) $(LIBS)
