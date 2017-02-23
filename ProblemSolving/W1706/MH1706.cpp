@@ -10,7 +10,7 @@ int main(void)
 
     for(int test_case=1;T<=test_case;T++)
     {
-        
+        lkjlkjdsaLSDJ;
     }
 
     return 0;
