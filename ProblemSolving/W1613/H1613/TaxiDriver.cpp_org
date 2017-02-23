@@ -8,22 +8,28 @@
 
 #define MAX_V 500
 #define MAX_L 500
-#define MAX_N 10*500
+#define MAX_N 150
 
 using namespace std;
 
+typedef struct _Edge{
+    int V;
+    int L;
+} Edge;
+
+Edge edge[MAX_N][MAX_N];
 bool bVisit[MAX_N] = {false, };
-double adj[MAX_N][MAX_N][3];      // 0 : V, 1 : L, 2 : time
+double adj[MAX_N][MAX_N] = {0, };
 double spent_time[MAX_N] = {INF, };
 int ShortLoc[MAX_N] = {0, };
 
-void print_adj(int N, int opt)
+void print_adj(int N)
 {
     for(int i=0;i<N;i++)
     {
         for(int j=0;j<N;j++)
         {
-            printf("%-lf ", adj[i][j][opt]);
+            printf("%-.lf ", adj[i][j]);
         }
         cout << endl;
     }
@@ -50,15 +56,11 @@ void init(int N)
         {
             if(i == j)
             {
-                adj[i][j][0] = 0;
-                adj[i][j][1] = 0;
-                adj[i][j][2] = 0;
+                adj[i][j] = 0;
             }
             else
             {
-                adj[i][j][0] = 0;
-                adj[i][j][1] = 0;
-                adj[i][j][2] = INF;
+                adj[i][j] = INF;
             }
         }
     }
@@ -86,7 +88,7 @@ void GetOutGoing(int CurLoc, int& nNumOfOut, int OutLoc[], int N)
 {
     for(int i=0;i<N;i++)
     {
-        if(adj[CurLoc][i][1] != 0)
+        if(adj[CurLoc][i] != 0 && adj[CurLoc][i] != INF)
         {
             OutLoc[nNumOfOut++] = i;
         }
@@ -101,7 +103,7 @@ int main(void)
     int T;
     cin >> T;
 
-    for(int tc=1;tc<=1;tc++)
+    for(int tc=1;tc<=2;tc++)
     {
         int N, M, D; // N : num of city, M : num of road, D : Target city
         cin >> N >> M >> D;
@@ -118,22 +120,17 @@ int main(void)
             if(S == 0 && V == 0) V = 70;
             if(V != 0)
             {
-                adj[S][E][0] = V;
-                adj[S][E][1] = L;
-                adj[S][E][2] = (double) L / V;
+                adj[S][E] = (double) L / V;
             }
             else
             {
-                adj[S][E][0] = 0;
-                adj[S][E][1] = L;
-                adj[S][E][2] = NOT_DECIDE;
+                adj[S][E] = NOT_DECIDE;
             }
+            edge[S][E].V = V;
+            edge[S][E].L = L;
         }
-        //print_adj(N, 2);
+        //print_adj(N);
 
-        // make new loc and edge
-
-#if 0
         int CurrentLocation = 0;
         spent_time[0] = 0;
         bVisit[0] = true;
@@ -193,7 +190,6 @@ int main(void)
             printf("%d ", Trace[nTrace - i - 1]);
         }
         cout << endl;
-#endif
     }
 
     cout << (double) (clock() - begin) / CLOCKS_PER_SEC << endl;
