@@ -7,7 +7,7 @@ int main(void)
     setbuf(stdout, NULL);
 
     scanf("%d", &test_case);
-
+lkjsdlfkjsaklj
     for(int T=1;T<=test_case;T++)
     //for(int T=1;T<=1;T++)
     {
