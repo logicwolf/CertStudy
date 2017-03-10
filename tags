@@ -1,0 +1,259 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CXXFLAGS	ProblemSolving/W1607/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1612/M1612/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1612/MH1612/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1613/H1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1613/M1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1613/MH1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1614/H1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1614/M1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1614/MH1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1615/H1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1615/M1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1615/MH1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+CXXFLAGS	ProblemSolving/W1706/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	m
+Check	Exercise/Permut.cpp	/^bool Check(int Arr[], int i, int k)$/;"	f
+CheckCorrectNum	ProblemSolving/W1607/MH1607.cpp	/^bool CheckCorrectNum(int num)$/;"	f
+CheckNumOfEmpty	Exercise/AdvL1_3-1.cpp	/^int CheckNumOfEmpty(int arrBookCase[], int nSize)$/;"	f
+CreateQueue	Exercise/Queue.cpp	/^void CreateQueue()$/;"	f
+CreateStack	Exercise/stack.cpp	/^void CreateStack(Stack& s)$/;"	f
+D	ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	v
+DFS_Recursive	Exercise/DFS.cpp	/^void DFS_Recursive(int x, int y, int step)$/;"	f
+Dist	Exercise/Dijkstra.cpp	/^int Dist[MAX_V] = {INF,};$/;"	v
+Dist	Exercise/Prim.cpp	/^int Dist[VERTICES] = {INF, };$/;"	v
+Edge	Exercise/kruskal.cpp	/^} Edge;$/;"	t	typeref:struct:_Edge	file:
+Edge	ProblemSolving/W1614/H1614/H1614.cpp	/^} Edge;$/;"	t	typeref:struct:_EDGE	file:
+FindMinMaxIndexExceptZero	Exercise/AdvL1_3-1.cpp	/^void FindMinMaxIndexExceptZero(int arrBookCase[], int nSize, int &nMinIdx, int &nMaxIdx)$/;"	f
+FindOutGoing	Exercise/Dijkstra.cpp	/^void FindOutGoing(int node, int VNum, int out[], int& nNum)$/;"	f
+GetNear	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int GetNear(int N)$/;"	f
+GetOutGoing	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void GetOutGoing(int CurLoc, int& nNumOfOut, int OutLoc[], int N)$/;"	f
+INF	Exercise/Dijkstra.cpp	7;"	d	file:
+INF	Exercise/Prim.cpp	5;"	d	file:
+INF	ProblemSolving/W1613/H1613/TaxiDriver.cpp	6;"	d	file:
+INF	ProblemSolving/W1614/H1614/H1614.cpp	11;"	d	file:
+Init	ProblemSolving/W1614/H1614/H1614.cpp	/^void Init()$/;"	f
+Init	ProblemSolving/W1614/MH1614/MH1614.cpp	/^void Init()$/;"	f
+IsAvail	ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^bool IsAvail(int x, int y)$/;"	f
+IsEmpty	Exercise/Queue.cpp	/^bool IsEmpty()$/;"	f
+IsFull	Exercise/Queue.cpp	/^bool IsFull()$/;"	f
+LIBS	ProblemSolving/W1607/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1612/M1612/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1612/MH1612/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1613/H1613/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1613/M1613/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1613/MH1613/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1614/H1614/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1614/M1614/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1614/MH1614/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1615/H1615/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1615/M1615/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1615/MH1615/Makefile	/^LIBS =$/;"	m
+LIBS	ProblemSolving/W1706/Makefile	/^LIBS =$/;"	m
+M	ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	v
+MAIN_NAME	ProblemSolving/W1607/Makefile	/^MAIN_NAME = MH1607$/;"	m
+MAX	Exercise/AdvL2_ex1.cpp	3;"	d	file:
+MAX	Exercise/Permut.cpp	3;"	d	file:
+MAX	Exercise/Subset.cpp	3;"	d	file:
+MAX	ProblemSolving/W1613/MH1613/BeanFarm.cpp	12;"	d	file:
+MAXNUM	ProblemSolving/W1607/MH1607.cpp	11;"	d	file:
+MAX_E	Exercise/kruskal.cpp	5;"	d	file:
+MAX_KEY	ProblemSolving/W1612/MH1612/MH1612.cpp	5;"	d	file:
+MAX_L	ProblemSolving/W1613/H1613/TaxiDriver.cpp	10;"	d	file:
+MAX_L	ProblemSolving/W1614/H1614/H1614.cpp	8;"	d	file:
+MAX_LEN	ProblemSolving/W1613/M1613/MemRecovery.cpp	7;"	d	file:
+MAX_M	ProblemSolving/W1614/H1614/H1614.cpp	13;"	d	file:
+MAX_N	ProblemSolving/W1612/M1612/SquareSum.cpp	6;"	d	file:
+MAX_N	ProblemSolving/W1613/H1613/TaxiDriver.cpp	11;"	d	file:
+MAX_N	ProblemSolving/W1614/H1614/H1614.cpp	9;"	d	file:
+MAX_N	ProblemSolving/W1615/H1615/H1615.cpp	7;"	d	file:
+MAX_N	ProblemSolving/W1615/M1615/M1615.cpp	6;"	d	file:
+MAX_V	Exercise/Dijkstra.cpp	6;"	d	file:
+MAX_V	ProblemSolving/W1613/H1613/TaxiDriver.cpp	9;"	d	file:
+MAX_V	ProblemSolving/W1614/H1614/H1614.cpp	7;"	d	file:
+MAX_WORD	ProblemSolving/W1612/MH1612/MH1612.cpp	6;"	d	file:
+Move	Exercise/AdvL1_3-1.cpp	/^void Move(int arrBookCase[], int nMin, int nMax)$/;"	f
+N	ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	v
+NOT_DECIDE	ProblemSolving/W1613/H1613/TaxiDriver.cpp	7;"	d	file:
+NOT_DECIDED	ProblemSolving/W1614/H1614/H1614.cpp	12;"	d	file:
+OBJS	ProblemSolving/W1607/Makefile	/^OBJS =		$(MAIN_NAME).o$/;"	m
+OBJS	ProblemSolving/W1612/M1612/Makefile	/^OBJS = SquareSum.o$/;"	m
+OBJS	ProblemSolving/W1612/MH1612/Makefile	/^OBJS = MH1612.o$/;"	m
+OBJS	ProblemSolving/W1613/H1613/Makefile	/^OBJS = TaxiDriver.o$/;"	m
+OBJS	ProblemSolving/W1613/M1613/Makefile	/^OBJS = MemRecovery.o$/;"	m
+OBJS	ProblemSolving/W1613/MH1613/Makefile	/^OBJS = BeanFarm.o$/;"	m
+OBJS	ProblemSolving/W1614/H1614/Makefile	/^OBJS = H1614.o$/;"	m
+OBJS	ProblemSolving/W1614/M1614/Makefile	/^OBJS = M1614.o$/;"	m
+OBJS	ProblemSolving/W1614/MH1614/Makefile	/^OBJS = MH1614.o$/;"	m
+OBJS	ProblemSolving/W1615/H1615/Makefile	/^OBJS = H1615.o$/;"	m
+OBJS	ProblemSolving/W1615/M1615/Makefile	/^OBJS = M1615.o$/;"	m
+OBJS	ProblemSolving/W1615/MH1615/Makefile	/^OBJS = MH1615.o$/;"	m
+OBJS	ProblemSolving/W1706/Makefile	/^OBJS = MH1706.o$/;"	m
+Permut	Exercise/Permut.cpp	/^void Permut(int Arr[], int k, int input)$/;"	f
+Point	Exercise/DFS.cpp	/^} Point;$/;"	t	typeref:struct:_Point	file:
+PrintAdj	Exercise/Dijkstra.cpp	/^void PrintAdj(int V)$/;"	f
+PrintArr	Exercise/Permut.cpp	/^void PrintArr(int Arr[], int k)$/;"	f
+PrintBookCase	Exercise/AdvL1_3-1.cpp	/^void PrintBookCase(int arrBookCase[], int nSize)$/;"	f
+PrintDist	Exercise/Dijkstra.cpp	/^void PrintDist(int V)$/;"	f
+PrintEdge	Exercise/kruskal.cpp	/^void PrintEdge(int num)$/;"	f
+PrintStep	Exercise/DFS.cpp	/^void PrintStep(int step)$/;"	f
+PrintSubSet	Exercise/AdvL2_ex1.cpp	/^void PrintSubSet(bool bSelect[])$/;"	f
+PrintSubSet	Exercise/Subset.cpp	/^void PrintSubSet(bool bArray[])$/;"	f
+Q	Exercise/Queue.cpp	/^    int Q[Q_SIZE];$/;"	m	struct:_Queue	file:
+Q_SIZE	Exercise/Queue.cpp	5;"	d	file:
+Queue	Exercise/Queue.cpp	/^} Queue;$/;"	t	typeref:struct:_Queue	file:
+QuickSort	Exercise/AdvL1_3-1.cpp	/^void QuickSort(int arr[], int start, int end)$/;"	f
+QuickSort	Exercise/QuickSort.cpp	/^void QuickSort(int arr[], int start, int end)$/;"	f
+QuickSort	Exercise/kruskal.cpp	/^void QuickSort(int start, int end)$/;"	f
+SIMPLE_SOL	Exercise/AdvL1_3-1.cpp	8;"	d	file:
+SIZE	Exercise/AdvL1_3-1.cpp	7;"	d	file:
+STACK_SIZE	Exercise/stack.cpp	4;"	d	file:
+SWAP	Exercise/kruskal.cpp	/^void SWAP(Edge& l, Edge& r)$/;"	f
+ShortLoc	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int ShortLoc[MAX_N] = {0, };$/;"	v
+SortArray	Exercise/QuickSort.cpp	/^void SortArray(int arr[], int nSize)$/;"	f
+Stack	Exercise/stack.cpp	/^} Stack;$/;"	t	typeref:struct:_Stack	file:
+SubSet	Exercise/Subset.cpp	/^void SubSet(bool bArray[], int k, int input)$/;"	f
+Swap	Exercise/QuickSort.cpp	/^void Swap(int &a, int &b)$/;"	f
+Swap	ProblemSolving/W1615/H1615/H1615.cpp	/^void Swap(int &a, int &b)$/;"	f
+TARGET	ProblemSolving/W1607/Makefile	/^TARGET =	$(MAIN_NAME)$/;"	m
+TARGET	ProblemSolving/W1612/M1612/Makefile	/^TARGET = SquareSum$/;"	m
+TARGET	ProblemSolving/W1612/MH1612/Makefile	/^TARGET = MH1612 $/;"	m
+TARGET	ProblemSolving/W1613/H1613/Makefile	/^TARGET = TaxiDriver$/;"	m
+TARGET	ProblemSolving/W1613/M1613/Makefile	/^TARGET = MemRecovery$/;"	m
+TARGET	ProblemSolving/W1613/MH1613/Makefile	/^TARGET = BeanFarm$/;"	m
+TARGET	ProblemSolving/W1614/H1614/Makefile	/^TARGET = H1614$/;"	m
+TARGET	ProblemSolving/W1614/M1614/Makefile	/^TARGET = M1614$/;"	m
+TARGET	ProblemSolving/W1614/MH1614/Makefile	/^TARGET = MH1614$/;"	m
+TARGET	ProblemSolving/W1615/H1615/Makefile	/^TARGET = H1615$/;"	m
+TARGET	ProblemSolving/W1615/M1615/Makefile	/^TARGET = M1615$/;"	m
+TARGET	ProblemSolving/W1615/MH1615/Makefile	/^TARGET = MH1615$/;"	m
+TARGET	ProblemSolving/W1706/Makefile	/^TARGET = MH1706$/;"	m
+Time	ProblemSolving/W1614/H1614/H1614.cpp	/^    double Time;$/;"	m	struct:_EDGE	file:
+Time	ProblemSolving/W1614/H1614/H1614.cpp	/^double Time[MAX_N] = {INF, };$/;"	v
+VERTICES	Exercise/Prim.cpp	6;"	d	file:
+VERY_LARGE_NUM	ProblemSolving/W1612/M1612/SquareSum.cpp	7;"	d	file:
+_DEBUG_	ProblemSolving/W1607/M1607.cpp	9;"	d	file:
+_DEBUG_	ProblemSolving/W1607/MH1607.cpp	4;"	d	file:
+_DEBUG_	ProblemSolving/W1613/MH1613/BeanFarm.cpp	3;"	d	file:
+_EDGE	ProblemSolving/W1614/H1614/H1614.cpp	/^typedef struct _EDGE$/;"	s	file:
+_EPOLL_TEST_	Exercise/epoll_test.cpp	7;"	d	file:
+_Edge	Exercise/kruskal.cpp	/^typedef struct _Edge{$/;"	s	file:
+_Point	Exercise/DFS.cpp	/^typedef struct _Point{$/;"	s	file:
+_Queue	Exercise/Queue.cpp	/^typedef struct _Queue$/;"	s	file:
+_STRUCTURE_SORT_	Exercise/QuickSort.cpp	15;"	d	file:
+_Stack	Exercise/stack.cpp	/^typedef struct _Stack$/;"	s	file:
+_USE_STACK_	Exercise/DFS.cpp	6;"	d	file:
+_USING_ITOR_	ProblemSolving/W1613/MH1613/BeanFarm.cpp	9;"	d	file:
+adj	Exercise/Dijkstra.cpp	/^int adj[MAX_V][MAX_V] = {INF, };$/;"	v
+adj	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^double adj[MAX_N][MAX_N][3];      \/\/ 0 : V, 1 : L, 2 : time$/;"	v
+adj	ProblemSolving/W1614/H1614/H1614.cpp	/^double adj[MAX_N][MAX_N] = {0,};$/;"	v
+adj_mat	Exercise/Prim.cpp	/^int adj_mat[VERTICES][VERTICES] = {$/;"	v
+arr	Exercise/AdvL2_ex1.cpp	/^int arr[MAX] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};$/;"	v
+array	ProblemSolving/W1615/M1615/M1615.cpp	/^long long array[MAX_N] = {0,};$/;"	v
+bCorrectNum	ProblemSolving/W1607/MH1607.cpp	/^bool bCorrectNum[MAXNUM] = {false, };$/;"	v
+bSelected	Exercise/kruskal.cpp	/^bool bSelected[MAX_E];$/;"	v
+bVisit	Exercise/Dijkstra.cpp	/^bool bVisit[MAX_V] = {false,};$/;"	v
+bVisit	Exercise/Prim.cpp	/^bool bVisit[VERTICES] = {false,};$/;"	v
+bVisit	ProblemSolving/W1614/H1614/H1614.cpp	/^bool bVisit[MAX_N] = {false,};$/;"	v
+binArr	ProblemSolving/W1614/MH1614/MH1614.cpp	/^char binArr[40] = {0, };$/;"	v
+binData	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int binData[40] = {0, };$/;"	v
+binSize	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int binSize = 0;$/;"	v
+charConvertor	ProblemSolving/W1612/MH1612/MH1612.cpp	/^int charConvertor(char ch)$/;"	f
+charToInt	ProblemSolving/W1614/MH1614/MH1614.cpp	/^void charToInt()$/;"	f
+checkWord	ProblemSolving/W1612/MH1612/MH1612.cpp	/^bool checkWord(char word[MAX_WORD], int nKeyLen)$/;"	f
+col	ProblemSolving/W1706/MH1706.cpp	/^int col[1024] = {0, };$/;"	v
+compareBin	ProblemSolving/W1614/MH1614/MH1614.cpp	/^bool compareBin(int bin[40])$/;"	f
+deQueue	Exercise/Queue.cpp	/^int deQueue()$/;"	f
+dist	Exercise/kruskal.cpp	/^    int dist;$/;"	m	struct:_Edge	file:
+dx	Exercise/DFS.cpp	/^int dx[4] = {0, -1, 0, 1};$/;"	v
+dx	ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int dx[2] = {-2, 0};$/;"	v
+dy	Exercise/DFS.cpp	/^int dy[4] = {1, 0, -1, 0};$/;"	v
+dy	ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int dy[2] = {0, -2};$/;"	v
+edge	Exercise/kruskal.cpp	/^Edge edge[MAX_E];$/;"	v
+edge	ProblemSolving/W1614/H1614/H1614.cpp	/^Edge edge[MAX_M];$/;"	v
+enQueue	Exercise/Queue.cpp	/^void enQueue(int item)$/;"	f
+end	ProblemSolving/W1614/H1614/H1614.cpp	/^    int end;$/;"	m	struct:_EDGE	file:
+ev	Exercise/epoll_test.cpp	/^struct epoll_event ev, events[1];$/;"	v	typeref:struct:epoll_event
+events	Exercise/epoll_test.cpp	/^struct epoll_event ev, events[1];$/;"	v	typeref:struct:
+find	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int find()$/;"	f
+find_set	Exercise/kruskal.cpp	/^int find_set(int x)$/;"	f
+front	Exercise/Queue.cpp	/^    int front;$/;"	m	struct:_Queue	file:
+gQueue	Exercise/Queue.cpp	/^Queue gQueue;$/;"	v
+getMinNode	Exercise/Prim.cpp	/^int getMinNode(int n)$/;"	f
+getNear	ProblemSolving/W1614/H1614/H1614.cpp	/^int getNear(int selCity)$/;"	f
+getShortDist	Exercise/Dijkstra.cpp	/^int getShortDist(int VNum)$/;"	f
+height	ProblemSolving/W1615/H1615/H1615.cpp	/^int height[MAX_N] = {0, };$/;"	v
+init	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void init(int N)$/;"	f
+key	ProblemSolving/W1612/MH1612/MH1612.cpp	/^char key[MAX_KEY] = {0, };$/;"	v
+len	ProblemSolving/W1614/H1614/H1614.cpp	/^    int len;$/;"	m	struct:_EDGE	file:
+main	Exercise/AdvL1_3-1.cpp	/^int main(void)$/;"	f
+main	Exercise/AdvL2_ex1.cpp	/^int main(void)$/;"	f
+main	Exercise/DFS.cpp	/^int main(void)$/;"	f
+main	Exercise/Dijkstra.cpp	/^int main(void)$/;"	f
+main	Exercise/Permut.cpp	/^int main(void)$/;"	f
+main	Exercise/Prim.cpp	/^int main(void)$/;"	f
+main	Exercise/Queue.cpp	/^int main(void)$/;"	f
+main	Exercise/QuickSort.cpp	/^int main(void)$/;"	f
+main	Exercise/Subset.cpp	/^int main(void)$/;"	f
+main	Exercise/epoll_test.cpp	/^int main(void)$/;"	f
+main	Exercise/kruskal.cpp	/^int main(void)$/;"	f
+main	Exercise/stack.cpp	/^int main(void)$/;"	f
+main	OpenCV/opencv_test.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	ProblemSolving/W1607/M1607.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1607/MH1607.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1612/M1612/SquareSum.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1612/MH1612/MH1612.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1613/M1613/MemRecovery.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1614/H1614/H1614.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1614/M1614/M1614.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1615/H1615/H1615.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1615/M1615/M1615.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1615/MH1615/MH1615.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1706/M1706.cpp	/^int main(void)$/;"	f
+main	ProblemSolving/W1706/MH1706.cpp	/^int main(void)$/;"	f
+make_set	Exercise/kruskal.cpp	/^void make_set(int x)$/;"	f
+map	Exercise/DFS.cpp	/^int map[5][5] = {1, 1, 1, 1, 1,$/;"	v
+numEdge	Exercise/kruskal.cpp	/^int numEdge;$/;"	v
+numV	Exercise/kruskal.cpp	/^int numV;$/;"	v
+numWord	ProblemSolving/W1612/MH1612/MH1612.cpp	/^int numWord=0;$/;"	v
+p	Exercise/kruskal.cpp	/^int p[MAX_E];$/;"	v
+path	Exercise/DFS.cpp	/^int path = 0;$/;"	v
+path	ProblemSolving/W1614/H1614/H1614.cpp	/^int path[MAX_N] = {0,};$/;"	v
+pop	Exercise/stack.cpp	/^int pop(Stack& s)$/;"	f
+prim	Exercise/Prim.cpp	/^void prim(int s, int n)$/;"	f
+print_adj	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void print_adj(int N, int opt)$/;"	f
+print_adj	ProblemSolving/W1614/H1614/H1614.cpp	/^void print_adj()$/;"	f
+print_arr	Exercise/QuickSort.cpp	/^void print_arr(int arr[], int nSize)$/;"	f
+print_time	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void print_time(int N)$/;"	f
+pt	Exercise/DFS.cpp	/^Point pt[100];$/;"	v
+push	Exercise/stack.cpp	/^void push(Stack& s, int x)$/;"	f
+quick_sort	ProblemSolving/W1615/H1615/H1615.cpp	/^void quick_sort(int arr[], int s, int e)$/;"	f
+rear	Exercise/Queue.cpp	/^    int rear;$/;"	m	struct:_Queue	file:
+row	ProblemSolving/W1706/MH1706.cpp	/^int row[1024] = {0, };$/;"	v
+sp	Exercise/stack.cpp	/^    int sp;$/;"	m	struct:_Stack	file:
+spent_time	ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^double spent_time[MAX_N] = {INF, };$/;"	v
+stack	Exercise/stack.cpp	/^    int stack[STACK_SIZE];$/;"	m	struct:_Stack	file:
+start	ProblemSolving/W1614/H1614/H1614.cpp	/^    int start;$/;"	m	struct:_EDGE	file:
+subSet	Exercise/AdvL2_ex1.cpp	/^void subSet(bool bSelect[], int k, int input, int sum)$/;"	f
+swap	Exercise/AdvL1_3-1.cpp	/^void swap(int &a, int &b)$/;"	f
+triArr	ProblemSolving/W1614/MH1614/MH1614.cpp	/^char triArr[40] = {0, };$/;"	v
+triData	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int triData[40] = {0, };$/;"	v
+triSize	ProblemSolving/W1614/MH1614/MH1614.cpp	/^int triSize = 0;$/;"	v
+triToBin	ProblemSolving/W1614/MH1614/MH1614.cpp	/^void triToBin(int outBin[40], int& nSize, int& DecimalVal)$/;"	f
+u	Exercise/kruskal.cpp	/^    int u;$/;"	m	struct:_Edge	file:
+union_set	Exercise/kruskal.cpp	/^void union_set(int u, int v)$/;"	f
+v	Exercise/kruskal.cpp	/^    int v;$/;"	m	struct:_Edge	file:
+vel	ProblemSolving/W1614/H1614/H1614.cpp	/^    int vel;$/;"	m	struct:_EDGE	file:
+visited	Exercise/DFS.cpp	/^bool visited[5][5] = {false, };$/;"	v
+way	ProblemSolving/W1615/MH1615/MH1615.cpp	/^int way[200] = {0, };$/;"	v
+word	ProblemSolving/W1612/MH1612/MH1612.cpp	/^char word[MAX_KEY][MAX_WORD];$/;"	v
+x	Exercise/DFS.cpp	/^    int x;$/;"	m	struct:_Point	file:
+x	ProblemSolving/W1706/MH1706.cpp	/^char x[1024][1024] = {0, };$/;"	v
+y	Exercise/DFS.cpp	/^    int y;$/;"	m	struct:_Point	file:
