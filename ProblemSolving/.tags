@@ -1,0 +1,164 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+x	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/MH1706.cpp	/^char x[1024][1024] = {0, };$/;"	variable	line:4
+row	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/MH1706.cpp	/^int row[1024] = {0, };$/;"	variable	line:5
+col	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/MH1706.cpp	/^int col[1024] = {0, };$/;"	variable	line:6
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/MH1706.cpp	/^int main(void)$/;"	function	line:8	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/Makefile	/^TARGET = MH1706$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/Makefile	/^OBJS = MH1706.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/Makefile	/^LIBS =$/;"	macro	line:7
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1706/M1706.cpp	/^int main(void)$/;"	function	line:3	signature:(void)
+executablePath	/home/jaehwan/work/github/CertStudy/ProblemSolving/undefined/.atom-gdb.json	/^  "executablePath": "",$/;"	function	line:2
+startupDirectory	/home/jaehwan/work/github/CertStudy/ProblemSolving/undefined/.atom-gdb.json	/^  "startupDirectory": "\/home\/jaehwan\/work\/github\/CertStudy\/ProblemSolving"$/;"	function	line:3
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/Makefile	/^TARGET = MH1615$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/Makefile	/^OBJS = MH1615.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/Makefile	/^LIBS =$/;"	macro	line:7
+way	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/MH1615.cpp	/^int way[200] = {0, };$/;"	variable	line:8
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/MH1615/MH1615.cpp	/^int main(void)$/;"	function	line:10	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/Makefile	/^TARGET = M1615$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/Makefile	/^OBJS = M1615.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/Makefile	/^LIBS =$/;"	macro	line:7
+MAX_N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/M1615.cpp	/^#define MAX_N /;"	macro	line:6	file:
+array	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/M1615.cpp	/^long long array[MAX_N] = {0,};$/;"	variable	line:8
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/M1615/M1615.cpp	/^int main(void)$/;"	function	line:12	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/Makefile	/^TARGET = H1615$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/Makefile	/^OBJS = H1615.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/Makefile	/^LIBS =$/;"	macro	line:7
+MAX_N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/H1615.cpp	/^#define MAX_N /;"	macro	line:7	file:
+height	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/H1615.cpp	/^int height[MAX_N] = {0, };$/;"	variable	line:8
+Swap	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/H1615.cpp	/^void Swap(int &a, int &b)$/;"	function	line:10	signature:(int &a, int &b)
+quick_sort	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/H1615.cpp	/^void quick_sort(int arr[], int s, int e)$/;"	function	line:19	signature:(int arr[], int s, int e)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1615/H1615/H1615.cpp	/^int main(void)$/;"	function	line:41	signature:(void)
+binArr	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^char binArr[40] = {0, };$/;"	variable	line:6
+triArr	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^char triArr[40] = {0, };$/;"	variable	line:7
+binData	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int binData[40] = {0, };$/;"	variable	line:8
+triData	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int triData[40] = {0, };$/;"	variable	line:9
+binSize	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int binSize = 0;$/;"	variable	line:10
+triSize	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int triSize = 0;$/;"	variable	line:11
+charToInt	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^void charToInt()$/;"	function	line:13	signature:()
+triToBin	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^void triToBin(int outBin[40], int& nSize, int& DecimalVal)$/;"	function	line:28	signature:(int outBin[40], int& nSize, int& DecimalVal)
+compareBin	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^bool compareBin(int bin[40])$/;"	function	line:51	signature:(int bin[40])
+find	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int find()$/;"	function	line:62	signature:()
+Init	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^void Init()$/;"	function	line:99	signature:()
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/MH1614.cpp	/^int main(void)$/;"	function	line:112	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/Makefile	/^TARGET = MH1614$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/Makefile	/^OBJS = MH1614.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/MH1614/Makefile	/^LIBS =$/;"	macro	line:7
+MAX_V	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define MAX_V /;"	macro	line:7	file:
+MAX_L	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define MAX_L /;"	macro	line:8	file:
+MAX_N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define MAX_N /;"	macro	line:9	file:
+INF	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define INF /;"	macro	line:11	file:
+NOT_DECIDED	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define NOT_DECIDED /;"	macro	line:12	file:
+MAX_M	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^#define MAX_M /;"	macro	line:13	file:
+_EDGE	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^typedef struct _EDGE$/;"	struct	line:17	file:
+start	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^    int start;$/;"	member	line:19	struct:_EDGE	file:
+end	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^    int end;$/;"	member	line:20	struct:_EDGE	file:
+vel	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^    int vel;$/;"	member	line:21	struct:_EDGE	file:
+len	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^    int len;$/;"	member	line:22	struct:_EDGE	file:
+Time	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^    double Time;$/;"	member	line:23	struct:_EDGE	file:
+Edge	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^} Edge;$/;"	typedef	line:24	typeref:struct:_EDGE	file:
+N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	variable	line:26
+M	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	variable	line:26
+D	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int N, M, D;$/;"	variable	line:26
+edge	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^Edge edge[MAX_M];$/;"	variable	line:28
+adj	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^double adj[MAX_N][MAX_N] = {0,};$/;"	variable	line:29
+Time	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^double Time[MAX_N] = {INF, };$/;"	variable	line:30
+path	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int path[MAX_N] = {0,};$/;"	variable	line:31
+bVisit	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^bool bVisit[MAX_N] = {false,};$/;"	variable	line:32
+print_adj	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^void print_adj()$/;"	function	line:34	signature:()
+Init	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^void Init()$/;"	function	line:45	signature:()
+getNear	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int getNear(int selCity)$/;"	function	line:60	signature:(int selCity)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/H1614.cpp	/^int main(void)$/;"	function	line:90	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/Makefile	/^TARGET = H1614$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/Makefile	/^OBJS = H1614.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/H1614/Makefile	/^LIBS =$/;"	macro	line:7
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/M1614/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/M1614/Makefile	/^TARGET = M1614$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/M1614/Makefile	/^OBJS = M1614.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/M1614/Makefile	/^LIBS =$/;"	macro	line:7
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1614/M1614/M1614.cpp	/^int main(void)$/;"	function	line:6	signature:(void)
+W1706/M1706	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^"W1706\/M1706":$/;"	function	line:1
+path	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^	path: "W1706\/M1706"$/;"	function	line:2
+cwd	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^	cwd: "W1706"$/;"	function	line:3
+W1707/M1707	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^"W1707\/M1707":$/;"	function	line:5
+path	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^	path: "W1707\/M1707"$/;"	function	line:6
+cwd	/home/jaehwan/work/github/CertStudy/ProblemSolving/.atom-dbg.cson	/^	cwd: "W1707"$/;"	function	line:7
+MAX_N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/SquareSum.cpp	/^#define MAX_N /;"	macro	line:6	file:
+VERY_LARGE_NUM	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/SquareSum.cpp	/^#define VERY_LARGE_NUM /;"	macro	line:7	file:
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/SquareSum.cpp	/^int main(void)$/;"	function	line:9	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/Makefile	/^TARGET = SquareSum$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/Makefile	/^OBJS = SquareSum.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/M1612/Makefile	/^LIBS =$/;"	macro	line:7
+MAX_KEY	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^#define MAX_KEY /;"	macro	line:5	file:
+MAX_WORD	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^#define MAX_WORD /;"	macro	line:6	file:
+numWord	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^int numWord=0;$/;"	variable	line:8
+key	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^char key[MAX_KEY] = {0, };$/;"	variable	line:9
+word	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^char word[MAX_KEY][MAX_WORD];$/;"	variable	line:10
+charConvertor	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^int charConvertor(char ch)$/;"	function	line:12	signature:(char ch)
+checkWord	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^bool checkWord(char word[MAX_WORD], int nKeyLen)$/;"	function	line:67	signature:(char word[MAX_WORD], int nKeyLen)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/MH1612.cpp	/^int main(void)$/;"	function	line:83	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/Makefile	/^TARGET = MH1612 $/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/Makefile	/^OBJS = MH1612.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1612/MH1612/Makefile	/^LIBS =$/;"	macro	line:7
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/Makefile	/^TARGET = TaxiDriver$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/Makefile	/^OBJS = TaxiDriver.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/Makefile	/^LIBS =$/;"	macro	line:7
+INF	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^#define INF /;"	macro	line:6	file:
+NOT_DECIDE	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^#define NOT_DECIDE /;"	macro	line:7	file:
+MAX_V	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^#define MAX_V /;"	macro	line:9	file:
+MAX_L	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^#define MAX_L /;"	macro	line:10	file:
+MAX_N	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^#define MAX_N /;"	macro	line:11	file:
+adj	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^double adj[MAX_N][MAX_N][3];      \/\/ 0 : V, 1 : L, 2 : time$/;"	variable	line:16
+spent_time	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^double spent_time[MAX_N] = {INF, };$/;"	variable	line:17
+ShortLoc	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int ShortLoc[MAX_N] = {0, };$/;"	variable	line:18
+print_adj	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void print_adj(int N, int opt)$/;"	function	line:20	signature:(int N, int opt)
+print_time	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void print_time(int N)$/;"	function	line:33	signature:(int N)
+init	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void init(int N)$/;"	function	line:42	signature:(int N)
+GetNear	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int GetNear(int N)$/;"	function	line:67	signature:(int N)
+GetOutGoing	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^void GetOutGoing(int CurLoc, int& nNumOfOut, int OutLoc[], int N)$/;"	function	line:85	signature:(int CurLoc, int& nNumOfOut, int OutLoc[], int N)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/H1613/TaxiDriver.cpp	/^int main(void)$/;"	function	line:96	signature:(void)
+MAX_LEN	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/MemRecovery.cpp	/^#define MAX_LEN /;"	macro	line:7	file:
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/MemRecovery.cpp	/^int main(void)$/;"	function	line:9	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/Makefile	/^TARGET = MemRecovery$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/Makefile	/^OBJS = MemRecovery.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/M1613/Makefile	/^LIBS =$/;"	macro	line:7
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/Makefile	/^TARGET = BeanFarm$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/Makefile	/^OBJS = BeanFarm.o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/Makefile	/^LIBS =$/;"	macro	line:7
+_DEBUG_	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^#define _DEBUG_$/;"	macro	line:3	file:
+_USING_ITOR_	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^#define _USING_ITOR_$/;"	macro	line:9	file:
+MAX	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^#define MAX /;"	macro	line:12	file:
+dx	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int dx[2] = {-2, 0};$/;"	variable	line:14
+dy	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int dy[2] = {0, -2};$/;"	variable	line:15
+IsAvail	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^bool IsAvail(int x, int y)$/;"	function	line:17	signature:(int x, int y)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1613/MH1613/BeanFarm.cpp	/^int main(void)$/;"	function	line:27	signature:(void)
+_DEBUG_	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/MH1607.cpp	/^#define _DEBUG_$/;"	macro	line:4	file:
+MAXNUM	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/MH1607.cpp	/^#define MAXNUM /;"	macro	line:11	file:
+bCorrectNum	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/MH1607.cpp	/^bool bCorrectNum[MAXNUM] = {false, };$/;"	variable	line:14
+CheckCorrectNum	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/MH1607.cpp	/^bool CheckCorrectNum(int num)$/;"	function	line:17	signature:(int num)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/MH1607.cpp	/^int main(void)$/;"	function	line:41	signature:(void)
+CXXFLAGS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/Makefile	/^CXXFLAGS =	-O2 -g -Wall -fmessage-length=0$/;"	macro	line:1
+MAIN_NAME	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/Makefile	/^MAIN_NAME = MH1607$/;"	macro	line:3
+OBJS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/Makefile	/^OBJS =		$(MAIN_NAME).o$/;"	macro	line:5
+LIBS	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/Makefile	/^LIBS =$/;"	macro	line:7
+TARGET	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/Makefile	/^TARGET =	$(MAIN_NAME)$/;"	macro	line:9
+_DEBUG_	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/M1607.cpp	/^#define _DEBUG_$/;"	macro	line:9	file:
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1607/M1607.cpp	/^int main(void)$/;"	function	line:18	signature:(void)
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1707/M1707.cpp	/^int main(void)$/;"	function	line:3	signature:(void)
+nNum	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1709/M1709.cpp	/^int nNum =0;$/;"	variable	line:3
+main	/home/jaehwan/work/github/CertStudy/ProblemSolving/W1709/M1709.cpp	/^int main(void)$/;"	function	line:4	signature:(void)
